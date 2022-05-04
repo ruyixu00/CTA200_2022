@@ -1,0 +1,180 @@
+    1  1234Ruyi
+    2  cosmo3.cita.utoronto.ca
+    3  /Applications/TigerVNC\ Viewer\ 1.12.0.app/Contents/MacOS/TigerVNC\ Viewer 
+    4  ssh student19@gw.cita.utoronto.ca
+    5  ssh username@gw.cita.utoronto.ca
+    6  ssh student19@gw.cita.utoronto.ca
+    7  /cita/local/bin/passwd
+    8      ssh student19@gw.cita.utoronto.ca
+    9  cd~ murray
+   10  cd ~murray
+   11  ls 
+   12  ls -la
+   13  cd Pa/Hopkin/All
+   14  cd Pa
+   15  cd ~murray
+   16  ls -la
+   17  cd Pa
+   18  cd Papers/Hopkins/All_Feedback/second_draft/
+   19  evince
+   20  cd Papers/Hopkins/All_Feedback/second_draft
+   21  cd Papers/Hopkins/All_Feedback/second_draft/
+   22  evin
+   23  history
+   24  ls -la sfh_vs_fbmodel.pdf
+   25  grep genzel ms.bib
+   26  cd
+   27  ls -la
+   28  mkdir CTA200_2022
+   29  ls -la
+   30  cd CTA200_2022
+   31  cd CTA200_2022/
+   32  ls -la
+   33  cd
+   34  cd CTA200_2022/
+   35  ls -la
+   36  ls -la > list_dir
+   37  ls -la
+   38  ci
+   39  vim
+   40  vm
+   41  vi
+   42  /pwd
+   43  ls -la
+   44  cd
+   45  ls -la
+   46  /mnt/scratch-lustre/student19
+   47  cd /mnt/scratch-lustre/student19
+   48  mkdir CTA200_2022
+   49  cd CTA200_2022
+   50  mkdir assignment_1
+   51  vim
+   52  vim Readme.md
+   53  ls -la
+   54  cd ~murray
+   55  ls -la
+   56  find "*Hello*"
+   57  find 'Hello'
+   58  find Hello
+   59  find *hello*
+   60  find ~name Hello
+   61  find ~ -name Hello
+   62  find ~ -name '*Hello'
+   63  ls -la
+   64  find ~ -name '*Hello'
+   65  find ~ -name '*Hello_world'
+   66  find/
+   67  find/ Hello_world
+   68  history
+   69  cd
+   70  ls -la
+   71  cd /mnt/scratch-lustre/student19
+   72  ls -la
+   73  cd CTA200_2022
+   74  ls -la
+   75  cd ~murray
+   76  ls -la
+   77  find 'Hello_World
+   78  Hello_world
+   79  ls -la
+   80  cd
+   81  cd /nmt/scratch-lustre/student19
+   82  cd ~murray
+   83  ls -la
+   84  find . -name "Hello*> dev/null
+   85  find ~ -name "Hello**"
+   86  cd ~murray
+   87  ls -la
+   88  find . -name "Hello_*2> dev/null
+   89  cp
+   90  cd ~murray
+   91  find . -name "Hello_*2> dev/null
+   92  cd ~murray
+   93  find . -name "Hello_*2"> dev/null
+   94  find . -name "Hello_*2"> /dev/null
+   95  grep find . -name "Hello_*2"> /dev/null
+   96  grep | find . -name "Hello_*2"> dev/null
+   97  ls -la
+   98  grep | find . -name "Hello_world*"
+   99  cp /Papers/tmp/Hello_world.exe /scratch-lustre/student19/CTA200_2022/assignment_1
+  100  cp //Papers/tmp/Hello_world.exe /scratch-lustre/student19/CTA200_2022/assignment_1
+  101  cp ~murray/Papers/tmp/Hello_world.exe /scratch-lustre/student19/CTA_2022/assignment_1
+  102  cp ~murray/Papers/tmp/Hello_world.exe /mnt/scratch-lustre/student19/CTA_2022/assignment_1
+  103  ~murray/Papers/tmp/Hello_world.exe ~student19/mnt/scratch-lustre/student19/CTA_2022/assignment_1
+  104  ~murray/Papers/tmp/Hello_world.c ~student19/mnt/scratch-lustre/student19/CTA_2022/assignment_1
+  105  cp ~murray/Papers/tmp/Hello_world.c ~student19/mnt/scratch-lustre/student19/CTA_2022/assignment_1
+  106  pwd
+  107  cd /mnt/scratch-lustre/student19
+  108  ls -la
+  109  cd CTA200_2022/
+  110  ls-la
+  111  ls -la
+  112  cd assignment_1/
+  113  cp ~murray/Papers/tmp/Hello_world.c .
+  114  ls -la
+  115  cp ~murray/Papers/tmp/Hello_world.py .
+  116  cp ~murray/Papers/tmp/Hello_world.exe . 
+  117  ls -la
+  118  vim
+  119  vim Hello_world.exe
+  120  mv Hello_world.exe Hello_world_Xu.exe
+  121  mv Hello_world.c Hello_world_Xu.c
+  122  ls -la
+  123  gcc
+  124  gcc Hello_world_Xu.c
+  125  gcc - v
+  126  gcc -v
+  127  ls -la
+  128  mv a.out Hellow_world.x
+  129  ls -la
+  130  Hello_world_Xu.c
+  131  abc/Hello_world_Xu.exe
+  132  $ ./ello_world_Xu.c
+  133  $ ./hello_world_Xu.c
+  134  $ ./Hello_world_Xu.c
+  135  $ ./Hellow_world.x
+  136  $ ./Hellow_world
+  137  pwd
+  138  rm Hello_world_Xu.exe
+  139  ls -la
+  140  cd ~murray
+  141  cd
+  142  pwd
+  143  cd /mnt/scratch-lustre/student19/CTA200_2022/assignment_1
+  144  pwd
+  145  ~murray/Papers/tmp/Hello_world.py .
+  146  cp ~murray/Papers/tmp/Hello_world.py .
+  147  cp ~murray/tmp/Hello_world.py .
+  148  ls -la
+  149  python Hello_world.py
+  150  python3 Hello_world.py
+  151  $ ./Hellow_world
+  152   ./Hellow_world
+  153  ./Hellow_world.x
+  154  vim Hello_world.py
+  155  vim Hello_world_Xu.c
+  156  gcc Hello_world_Xu.c
+  157  ls -la
+  158  mv Hello_world_Xu.c
+  159  mv Hello_world.py Hello_world_Xu.py
+  160  vim Hello_world_Xu.c
+  161  gcc Hello_world_Xu.c
+  162  vim Hello_world_Xu.c
+  163  cp ~murray/Papers/tmp/Hello_world.c
+  164  cp ~murray/Papers/tmp/Hello_world.c .
+  165  vim Hello_world.c
+  166  vim Hello_world_Xu.c
+  167  gcc Hello_world_Xu.c
+  168  ls -la
+  169  /a.out
+  170  ./a.out
+  171  python3 Hello_world_Xu.py
+  172  python3 Hello_world_Xu.py > output_python.txt
+  173  ls -la
+  174  rm Hello_world.c
+  175  mv a.out Hellow_world_Xu.x
+  176  Hello_world_Xu.c > output_c.txt
+  177  ./Hellow_world.x > output_c.txt
+  178  ls -la
+  179  history
+  180  history > history.txt
