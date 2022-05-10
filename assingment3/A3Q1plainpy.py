@@ -38,7 +38,7 @@ def plot_set(bounds,plot_binary):
     font = {'fontname':'Times New Roman'} 
     plt.figure(dpi=100)
     plt.title('Mandelbrot Set')
-    plt.xticks(np.arange(0,N+1,N/4),np.arange(bounds[0],bounds[1]+1,(bounds[1]-bounds[0])/4)) #careful: arange works as [start, stop)
+    plt.xticks(np.arange(0,N+1,N/4),np.arange(bounds[0],bounds[1]+1,(bounds[1]-bounds[0])/4))
     plt.yticks(np.arange(0,N+1,N/4),np.arange(bounds[3],bounds[2]-1,(bounds[2]-bounds[3])/4))
     plt.xlabel('Re',**font)
     plt.ylabel('Im',**font)
